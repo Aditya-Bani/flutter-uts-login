@@ -25,8 +25,14 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 
 ## Output
 
+### Login
+
 ![imglogin](assets/images/login.jpeg)
 
+### Register
+
 ![imglogin](assets/images/register.jpeg)
+
+### Forgot Password
 
 ![imglogin](assets/images/forgot-pw.jpeg)
