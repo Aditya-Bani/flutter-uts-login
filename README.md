@@ -22,3 +22,5 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 2. Jalankan aplikasi dengan perintah berikut:
    `flutter run`
 3. Aplikasi akan terbuka di simulator atau perangkat yang Anda pilih. Anda dapat memasukkan email dan password untuk melakukan login, atau memilih opsi "Forgot Password?" untuk mengatur ulang kata sandi Anda. Jika Anda belum memiliki akun, Anda dapat memilih opsi "Create an Account" untuk mendaftar ke akun baru.
+
+## Output
