@@ -1,16 +1,24 @@
-# flutter_application_bani
+# UTS Pemrograman Mobile: Halaman Login dengan Flutter
 
-A new Flutter project.
+Selamat datang di repository UTS Matakuliah Pemrograman Mobile! Repository ini berisi implementasi halaman login dengan menggunakan Flutter. Tugas ini diberikan sebagai bagian dari Ujian Tengah Semester (UTS) untuk matakuliah Pemrograman Mobile.
 
-## Getting Started
+## Deskripsi UTS
 
-This project is a starting point for a Flutter application.
+Setelah mempelajari konsep dan teknik dalam pemrograman mobile dengan Flutter, tugas Anda adalah membuat halaman login yang responsif dan user-friendly. Halaman login ini akan digunakan untuk autentikasi pengguna dalam aplikasi.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur-fitur yang diimplementasikan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Input field untuk memasukkan email
+- Input field untuk memasukkan password (yang ditampilkan sebagai teks tersembunyi)
+- Tombol "Login" untuk memulai proses autentikasi
+- Tombol "Forgot Password?" untuk mengatur ulang kata sandi
+- Tombol "Create an Account" untuk mendaftar ke akun baru
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menggunakan
+
+Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
+
+1. Buka project dalam editor Flutter yang telah diinstal di komputer Anda.
+2. Jalankan aplikasi dengan perintah berikut:
+   `flutter run`
+3. Aplikasi akan terbuka di simulator atau perangkat yang Anda pilih. Anda dapat memasukkan email dan password untuk melakukan login, atau memilih opsi "Forgot Password?" untuk mengatur ulang kata sandi Anda. Jika Anda belum memiliki akun, Anda dapat memilih opsi "Create an Account" untuk mendaftar ke akun baru.
