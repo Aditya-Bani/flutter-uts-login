@@ -25,8 +25,8 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 
 ## Output
 
-![imglogin](assets/img/login.jpeg)
+![imglogin](assets/images/login.jpeg)
 
-![imglogin](assets/img/register.jpeg)
+![imglogin](assets/images/register.jpeg)
 
-![imglogin](assets/img/forgot-pw.jpeg)
+![imglogin](assets/images/forgot-pw.jpeg)
