@@ -36,3 +36,9 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 ### Forgot Password
 
 ![imglogin](assets/images/forgot-pw.jpeg)
+
+# Hubungi Saya
+Jika Anda memiliki pertanyaan atau ingin terhubung dengan saya, silakan kunjungi profil LinkedIn dan Instagram saya:
+- LinkeIn: https://www.linkedin.com/in/aditya-bani-isro-870255222/
+- https://www.instagram.com/adtybnii_/
+Terima Kasih!
