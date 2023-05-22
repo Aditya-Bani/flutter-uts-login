@@ -41,4 +41,5 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 Jika Anda memiliki pertanyaan atau ingin terhubung dengan saya, silakan kunjungi profil LinkedIn dan Instagram saya:
 - LinkeIn: https://www.linkedin.com/in/aditya-bani-isro-870255222/
 - https://www.instagram.com/adtybnii_/
+- 
 Terima Kasih!
