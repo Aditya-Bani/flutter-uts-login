@@ -39,7 +39,7 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 
 # Hubungi Saya
 Jika Anda memiliki pertanyaan atau ingin terhubung dengan saya, silakan kunjungi profil LinkedIn dan Instagram saya:
-- LinkeIn   : https://www.linkedin.com/in/aditya-bani-isro-870255222/
+- LinkedIn  : https://www.linkedin.com/in/aditya-bani-isro-870255222/
 - Instagram : https://www.instagram.com/adtybnii_/
 
 Terima Kasih!
